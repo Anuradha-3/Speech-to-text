@@ -13,3 +13,7 @@ facebook/wav2vec2-base-960h
 
 ## Output
 - transcription.txt
+
+
+## Latest Update
+- Added transcription and README update details.
