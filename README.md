@@ -17,3 +17,4 @@ facebook/wav2vec2-base-960h
 
 ## Latest Update
 - Added transcription and README update details.
+Newly added commits to check whether it is working fine
